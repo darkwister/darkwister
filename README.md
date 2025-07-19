@@ -4,8 +4,8 @@
 - I like videogames, the music and stay put on my business.
 - Im bilingual being my native languague Spanish.
 ## Skills 
-- C#, .NET, ASP.NET, Windows Forms.
-- Python, Tableau,
+- C#, .NET Core, ASP.NET, Windows Forms.
+- Python, Tableau.
 - Javascript, Typescript.
 - Java, Java Swing, JavaFX.
 - Ionic, Angular, App.
